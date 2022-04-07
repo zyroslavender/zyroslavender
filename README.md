@@ -30,7 +30,8 @@ or <a href="mailto:zyros.richard@outlook.com"><b>email</b></a> me.
 
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.instagram.com/zyroser" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/zyrosrichard" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.instagram.com/zyroser" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="zyroser"></a>
+<a href="https://discordapp.com/users/684252812296847424" target="_blank"><img src="hhttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zyros Richard#7519"></a>
+<a href="https://twitter.com/zyrosrichard" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="zyrosrichard"></a>
 
 </div>
