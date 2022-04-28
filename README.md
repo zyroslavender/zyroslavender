@@ -1,3 +1,12 @@
+<p align="center">
+   <a href="https://github.com/zyross/">
+   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=zyross&style=flat-square&color=de1032">
+   <a />
+   <br>
+   <a href="https://discordapp.com/users/684252812296847424/">
+   <img title="Zyros Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
+   <a />
+</p>
 <div align="center">
 <h2> Hello there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/zyross/zyross/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
