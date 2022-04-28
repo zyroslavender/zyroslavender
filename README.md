@@ -4,7 +4,7 @@
    <a />
    <br>
    <a href="https://discordapp.com/users/684252812296847424/">
-   <img title="Zyros Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
+   <img title="Zyros Discord" src="">
    <a />
 </p>
 <div align="center">
